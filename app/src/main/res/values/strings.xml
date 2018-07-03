@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">IntentFilter</string>
+    <string name="welcome">Welcome</string>
+    <string name="create_alarm">Create Alarm</string>
+    <string name="set_alarm">Set Alarm</string>
+    <string name="insert_event">Insert Event</string>
+    <string name="set_timer">Set Timer</string>
+    <string name="image_capture">Image Capture</string>
+    <string name="choose_contact">Choose Contact</string>
+    <string name="mail_sendto">Mail Send to</string>
+    <string name="mail_send">Mail Send</string>
+    <string name="open_browser">Open Browser</string>
+    <string name="send_message">Send Message</string>
+    <string name="call_to_number">Call to Number</string>
+    <string name="paly_music">Paly Music</string>
+    <string name="load_map">Load Map</string>
+    <string name="open_document">Open document</string>
+    <string name="get_image_content">Get Image Content</string>
+    <string name="mail_send_multiple">Mail send Multiple</string>
+</resources>
